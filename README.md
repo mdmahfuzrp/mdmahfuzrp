@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahfuzrpsmorg@gmail.com**
 
-- ⚡ Fun fact **I think i am funny but not looser**
+- ⚡ Power source **Fresh hand code is my power**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
