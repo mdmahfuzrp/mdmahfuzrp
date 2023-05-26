@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
 
-- 🔭 I’m currently working on **University Management Project**
+- 🔭 I’m currently working on: **University Management Project**
 
 - 🌱 I am continuously learning something new
 
-- 📫 How to reach me **mahfuzrpsmorg@gmail.com**
+- 📫 How to reach me: **mahfuzrpsmorg@gmail.com**
 
-- ⚡ Power source **Fresh hand code is my power**
+- ⚡ Power source: **Fresh hand code is my power**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
