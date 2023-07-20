@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/ZHvVPZh/Md-Mahfuz-RP.gif)
+![MasterHead](https://i.ibb.co/4MMBdyv/mdmahfuzrp.jpg)
 <h1 align="center">Hello 👋, Myself Md Mahfuz RP</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XFQbPsg/amdmahfuzrp.jpg">
