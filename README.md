@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/4MMBdyv/mdmahfuzrp.jpg)
 <h1 align="center">Hello 👋, Myself Md Mahfuz RP</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/XFQbPsg/amdmahfuzrp.jpg">
+<img align="right" alt="Coding" width="400" style="border-radius:20px" src="https://i.ibb.co/XFQbPsg/amdmahfuzrp.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
 
