@@ -1,7 +1,6 @@
 ![MasterHead](https://i.ibb.co/4MMBdyv/mdmahfuzrp.jpg)
 <h1 align="center">Hello 👋, Myself Md Mahfuz RP</h1>
-<h1 align="center"><a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></a></h1>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></a>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
 <img align="right" alt="Coding" width="400" style="border-radius:20px" src="https://i.ibb.co/XFQbPsg/amdmahfuzrp.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
