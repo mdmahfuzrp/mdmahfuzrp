@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/4MMBdyv/mdmahfuzrp.jpg)
-<h1 align="center">Hello <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">, Myself Md Mahfuz RP</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="29px">, Myself Md Mahfuz RP</h1>
 # As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
