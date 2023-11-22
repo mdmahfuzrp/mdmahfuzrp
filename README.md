@@ -4,8 +4,6 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
 
 ### 💫 About Me:
