@@ -9,10 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
 
 ### 💫 About Me:
-```sh
-Hi there Myself Md Mahfuz RP, I'm a experienced MERN Stack Developer. My work is in MERN sector but i love competitive programming. When i have free time or any type of off day, i try to solve some problem for refreshing my mind. Problem solving is a power what give me lots of confidence. 
-In my MERN career, I have almost 2+ years of industry experience and 4+ years of technical knowledge. I can build high-performing and high-quality websites that offer the best user experience. I always focus on the products I build and believe in quality over quantity. Lets collaborate and make some history together.
-```
+`
+Hello Myself Md Mahfuz RP, I'm a experienced MERN Stack Developer. My work is in MERN sector but i love competitive programming. When i have free time or any type of off day, i try to solve some problem for refreshing my mind. Problem solving is a power what give me lots of confidence. 
+`<br>
+`
+In my MERN career, I have almost 2+ years of industry experience and 4+ years of technical knowledge. I can build high-performing and high-quality websites that offer the best user experience. I always focus on the products I build and believe in quality over quantity. Let's collaborate and make some history together.
+`
 
 ### 🌐 My Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/mdmahfuzrp) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmahfuzrp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmahfuzrp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmahfuzrp) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22882309) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdmahfuzrp) 
