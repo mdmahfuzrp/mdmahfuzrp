@@ -22,9 +22,11 @@ In my MERN career, I have almost 2+ years of industry experience and 4+ years of
 ![](https://github-readme-stats.vercel.app/api?username=mdmahfuzrp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdmahfuzrp&limit=2&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahfuzrp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 🔝 Current GitHub Activity Status
+<div align="left">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&hide_border=true&border_radius=5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahfuzrp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
+</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdmahfuzrp&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
