@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/jvDn9cf/mdmahfuzrp-photo.png)
-<img src="https://i.ibb.co/jvDn9cf/mdmahfuzrp-photo.png" alt="Typing SVG" />
+<img src="https://i.ibb.co/7pS2Z62/MERN-STACK-DEVELOPER-PROBLEM-SOLVER-TUTOR-3.png" alt="Typing SVG" />
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Mahfuz,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
