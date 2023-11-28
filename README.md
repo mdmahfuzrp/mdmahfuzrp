@@ -25,7 +25,7 @@ In my MERN career, I have almost 2+ years of industry experience and 4+ years of
 ### 🔝 Current GitHub Activity Status
 <div align="left">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&hide_border=true&border_radius=5" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahfuzrp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahfuzrp&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
 </div>
 
 ### 🏆 GitHub Trophies
