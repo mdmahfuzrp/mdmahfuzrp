@@ -7,8 +7,9 @@
 
 ### 💫 About Me:
 `
-Hello Myself Md Mahfuz RP, I'm a experienced MERN Stack Developer. My work is in MERN sector but i love competitive programming. When i have free time or any type of off day, i try to solve some problem for refreshing my mind. Problem solving is a power what give me lots of confidence.
-In my MERN career, I have almost 2+ years of industry experience and 4+ years of technical knowledge. I can build high-performing and high-quality websites that offer the best user experience. I always focus on the products I build and believe in quality over quantity. Let's collaborate and make some history together.
+Software Engineer with 3+ years of industry experience and 5+ years of technical expertise. Proven ability to design and develop high-performing, user-centric websites. Passionate about problem-solving and continuous improvement, honed through competitive programming.
+
+I'm a strong believer in crafting well-designed products that prioritize quality over quantity. Eager to collaborate on groundbreaking projects and contribute to a team's success.
 `
 
 ### 🌐 My Social Media:
