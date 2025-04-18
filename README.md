@@ -7,7 +7,7 @@
 
 ### 💫 About Me:
 
-Software Engineer with 3+ years of industry experience and 5+ years of technical expertise. Proven ability to design and develop high-performing, user-centric websites. Passionate about problem-solving and continuous improvement, honed through competitive programming.
+Software Engineer with 5+ years of industry experience and 6+ years of technical expertise. Proven ability to design and develop high-performing, user-centric websites. Passionate about problem-solving and continuous improvement, honed through competitive programming.
 
 I'm a strong believer in crafting well-designed products that prioritize quality over quantity. Eager to collaborate on groundbreaking projects and contribute to a team's success.
 
